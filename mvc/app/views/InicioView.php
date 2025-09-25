@@ -15,7 +15,11 @@
             <div class="contactar"><a href="contactar">Contactar</a></div>
         </div>
         <div class="container__descripcion">
-            Ejercicio practico evaluado de Tecnicas de Programación para Internet
+            <div class="nombres">Josué Iván</div>
+            <div class="apellidos">Molina Romero</div>
+            <div class="edad">22</div>
+            <div class="ciudad">San Miguel</div>
+            <div class="carnet">MR22085</div>
         </div>
     </div>
 </body>

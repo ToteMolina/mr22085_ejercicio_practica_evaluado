@@ -15,7 +15,7 @@
             <div class="contactar"><a href="contactar">Contactar</a></div>
         </div>
         <div class="container__descripcion">
-            Ejercicio practico evaluado de Tecnicas de Programación para Internet
+            <h1>FUERA DE SERVICIO :/</h1>
         </div>
     </div>
 </body>

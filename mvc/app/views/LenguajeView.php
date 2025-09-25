@@ -15,7 +15,15 @@
             <div class="contactar"><a href="contactar">Contactar</a></div>
         </div>
         <div class="container__descripcion">
-            Ejercicio practico evaluado de Tecnicas de Programación para Internet
+            <h2>Lenguajes que uso:</h2>
+            <ul>
+                <li>Java</li>
+                <li>Python</li>
+                <li>Javascript</li>
+                <li>C#</li>
+                <li>PHP</li>
+            </ul>
+            <p>El que más uso es <b>PHP</b>, porque es el que estamos usando en TPI</p>
         </div>
     </div>
 </body>
